@@ -1,0 +1,8 @@
+#ifndef SHAKESPEARE_TYPES_H_IS_INCLUDED
+#define SHAKESPEARE_TYPES_H_IS_INCLUDED
+
+
+
+
+
+#endif
